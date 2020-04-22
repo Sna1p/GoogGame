@@ -1,0 +1,4 @@
+2020-04-14T16:54:24+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в G:\OSPanel\domains\wordpress.ru\wp-includes\Requests\Transport\cURL.php на строке 463
+
+2020-04-14T16:54:47+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в G:\OSPanel\domains\wordpress.ru\wp-includes\Requests\Transport\cURL.php на строке 463
+

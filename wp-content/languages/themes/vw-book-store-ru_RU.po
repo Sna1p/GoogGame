@@ -1,0 +1,864 @@
+# Translation of Themes - VW Book Store in Russian
+# This file is distributed under the same license as the Themes - VW Book Store package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-02 09:11:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - VW Book Store\n"
+
+#. Theme Name of the theme
+msgid "VW Book Store"
+msgstr "VW Book Store"
+
+#. Description of the theme
+msgid "VW Book store is a feature-rich, flexible, robust and reliable WordPress theme for book stores, eBook sites, writers, magazines, journalists, editors, authors, publishers and online book sellers. The theme can very well serve libraries, reading clubs, online movie, music and game selling sites. Built on Bootstrap framework, it is extremely easy to use. It is readily responsive, cross-browser compatible and translation ready. Its user-friendly interface of both frontend and backend will give a great experience to both your customers and you. It has multiple options to change the layout of the website. Banners and sliders are provided to further enhance its look. With a great scope of customization, you can change its colour, background, images and several other elements. The VW Book Store theme is sure to give you good SEO results. It is lightweight leading to speedy loading. With social media icons, your content, posts and website can be shared on various networking sites. These icons can also be used to let users follow you there. This book store theme can handle large traffic without hampering its functionality. It is purposefully made clean and secure resulting in a bug-free site. Use this theme to establish an online book hub for reading and literature lovers. Demo: https://www.vwthemes.net/vw-book-store-pro/"
+msgstr "VW Book store - это многофункциональная, гибкая, надежная и настраиваемая тема WordPress для книжных магазинов, сайтов электронных книг, писателей, журналов, журналистов, редакторов, авторов, издателей и онлайн-продавцов книг. Тема может очень хорошо служить библиотекам, клубам чтения, онлайн-фильмам, сайтам по продаже музыки и игр. Построенна на основе Bootstrap, она чрезвычайно проста в использовании. Она адаптивна, совместима с разными браузерами и готова к переводу. Ее дружественный пользовательский интерфейс как внешнего интерфейса, так и внутреннего предоставит вам и вашим клиентам отличный опыт использования. Она имеет несколько вариантов для изменения макета сайта. Баннеры и слайдеры предоставляются для дальнейшего улучшения ее внешнего вида. С широкими возможностями настройки вы можете изменить ее цвет, фон, изображения и некоторые другие элементы. Тема VW Book Store наверняка даст вам хорошие результаты SEO. Она легкая, что приводит к быстрой загрузке. С помощью значков социальных сетей ваш контент, сообщения и веб-сайт могут быть опубликованы на различных сетевых сайтах. Эти значки также можно использовать, чтобы пользователи могли следить за вами. Эта тема книжного магазина может обрабатывать большой трафик без ущерба для его функциональности. Она специально сделана простой и безопасной, в результате чего сайт не содержит ошибок. Используйте эту тему, чтобы создать онлайновый книжный центр для любителей чтения и литературы. Демо: https://www.vwthemes.net/vw-book-store-pro/"
+
+#: inc/customizer.php:310
+msgid "Docs"
+msgstr "Документация"
+
+#: inc/customizer.php:192
+msgid "First select static page in homepage setting for front page.Below given edit button is to customize Home Page. Just click on the edit option, add whatever elements you want to include in the homepage, save the changes and you are good to go."
+msgstr "Сначала выберите статическую страницу в настройках домашней страницы для главной страницы. Ниже находиться кнопка редактирования для настройки домашней страницы. Просто нажмите на опцию редактирования, добавьте все элементы, которые вы хотите включить в домашнюю страницу, сохраните изменения, и все готово."
+
+#: inc/customizer.php:179
+msgid "Customize Home Page"
+msgstr "Настроить домашнюю страницу"
+
+#: inc/customizer.php:138
+msgid "Show / Hide slider"
+msgstr "Показать / Скрыть слайдер"
+
+#: inc/getstart/getstart.php:368
+msgid "Contact Us"
+msgstr "Обратная связь"
+
+#: inc/getstart/getstart.php:366
+msgid "If you have any queries after purchase, you can contact us. We are eveready to help you out."
+msgstr "Если у вас есть вопросы после покупки, вы можете связаться с нами. Мы всегда готовы помочь вам."
+
+#: inc/getstart/getstart.php:365
+msgid "Support Queries"
+msgstr "Запросы в поддержку"
+
+#: inc/getstart/getstart.php:360
+msgid "View FAQ"
+msgstr "Посмотрите \"Частые вопросы\""
+
+#: inc/getstart/getstart.php:358
+msgid "We have gathered top most, frequently asked questions and answered them for your easy understanding. We will list down more as we get new challenging queries. Check back often."
+msgstr "Мы собрали самые популярные, часто задаваемые вопросы и ответили на них, для того что бы вы лучше понимали. Мы будем добавлять больше ответов, поскольку у нас появятся новые интересные вопросы. Проверяйте их чаще."
+
+#: inc/getstart/getstart.php:357
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+#: inc/getstart/getstart.php:352
+msgid "About Child Theme"
+msgstr "Про дочернюю тему"
+
+#: inc/getstart/getstart.php:350
+msgid "For theme file customizations, make modifications in the child theme and not in the main theme file."
+msgstr "Для настроек файла темы внесите изменения в дочернюю тему, а не в файл основной темы."
+
+#: inc/getstart/getstart.php:349
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/getstart/getstart.php:345
+msgid "Question"
+msgstr "Вопрос"
+
+#: inc/getstart/getstart.php:343
+msgid "If you have any pre-sale query, we are prepared to resolve it."
+msgstr "Если у вас есть предпродажный вопрос, мы готовы на него ответить."
+
+#: inc/getstart/getstart.php:342
+msgid "Pre-purchase Queries"
+msgstr "Предпродажные вопросы"
+
+#: inc/getstart/getstart.php:338
+msgid "Get Pro"
+msgstr "Получить Pro"
+
+#: inc/getstart/getstart.php:336
+msgid "To gain access to extra theme options and more interesting features, upgrade to pro version."
+msgstr "Чтобы получить доступ к дополнительным параметрам темы и более интересным функциям, выполните обновление до версии pro."
+
+#: inc/getstart/getstart.php:335
+msgid "Pro Version"
+msgstr "Версия PRO"
+
+#: inc/getstart/getstart.php:318
+msgid "Seamless Customer Support"
+msgstr "Полная поддержка клиентов"
+
+#: inc/getstart/getstart.php:313
+msgid "All Access Theme Pass"
+msgstr "Все доступы темы проверены"
+
+#: inc/getstart/getstart.php:308
+msgid "Custom Feature Addition"
+msgstr "Добавление пользовательской функции"
+
+#: inc/getstart/getstart.php:303
+msgid "Priority Error Fixing"
+msgstr "Исправление приоритетной ошибки"
+
+#: inc/getstart/getstart.php:298
+msgid "Budget Friendly Value"
+msgstr "Бюджетная дружеская стоимость"
+
+#: inc/getstart/getstart.php:293
+msgid "Premium Membership"
+msgstr "Премиум членство"
+
+#: inc/getstart/getstart.php:288
+msgid "Custom Background, Colors, Header, Logo & Menu"
+msgstr "Пользовательский фон, цвета, шапка, логотип и меню"
+
+#: inc/getstart/getstart.php:283
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: inc/getstart/getstart.php:278
+msgid "Support to add custom CSS / JS "
+msgstr "Поддержка добавления пользовательских CSS / JS "
+
+#: inc/getstart/getstart.php:273
+msgid "Simple & Mega Menu Option"
+msgstr "Настройки простого и Mega Menu"
+
+#: inc/getstart/getstart.php:268
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/getstart/getstart.php:263
+msgid "Section Google Font Choices"
+msgstr "Раздел выбора Google шрифтов"
+
+#: inc/getstart/getstart.php:258
+msgid "Section Enable / Disable"
+msgstr "Раздел Включить / выключить"
+
+#: inc/getstart/getstart.php:253
+msgid "Exclusive Functionalities"
+msgstr "Эксклюзивные функции"
+
+#: inc/getstart/getstart.php:248
+msgid "Secure and Optimized Code"
+msgstr "Безопасный и оптимизированый код"
+
+#: inc/getstart/getstart.php:243
+msgid "Support 3rd Party Plugins"
+msgstr "Поддержка плагинов сторонних разработчиков"
+
+#: inc/getstart/getstart.php:238
+msgid "Woo-Commerce Compatibility"
+msgstr "Совместимость с Woo-Commerce"
+
+#: inc/getstart/getstart.php:233
+msgid "Latest WordPress Compatibility"
+msgstr "Совместимость с последними версиями WordPress"
+
+#: inc/getstart/getstart.php:228
+msgid "Full Documentation"
+msgstr "Полная документация"
+
+#: inc/getstart/getstart.php:225
+msgid "2(Left/Right Sidebar)"
+msgstr "2(Левая/Правая боковая панель)"
+
+#: inc/getstart/getstart.php:223
+msgid "Page Templates & Layout"
+msgstr "Шаблон и разметка страницы"
+
+#: inc/getstart/getstart.php:220
+msgid "3(Full width/Left/Right Sidebar)"
+msgstr "3(Полноэкранный/Левая/Правая боковая панель)"
+
+#: inc/getstart/getstart.php:218
+msgid "Blog Templates & Layout"
+msgstr "Шаблоны и разметка блога"
+
+#: inc/getstart/getstart.php:213
+msgid "Contact us Page Template"
+msgstr "Шаблон страницы \"Свяжитесь с нами\""
+
+#: inc/getstart/getstart.php:209 inc/getstart/getstart.php:210
+#: inc/getstart/getstart.php:215
+msgid "1"
+msgstr "1"
+
+#: inc/getstart/getstart.php:208
+msgid "Home Page Template"
+msgstr "Шаблон домашней страницы"
+
+#: inc/getstart/getstart.php:205
+msgid "6"
+msgstr "6"
+
+#: inc/getstart/getstart.php:204
+msgid "3"
+msgstr "3"
+
+#: inc/getstart/getstart.php:203
+msgid "Template Pages"
+msgstr "Шаблон страниц"
+
+#: inc/getstart/getstart.php:199
+msgid "4"
+msgstr "4"
+
+#: inc/getstart/getstart.php:198
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: inc/getstart/getstart.php:188
+msgid "Social Media Links"
+msgstr "Ссылки на социальные сети"
+
+#: inc/getstart/getstart.php:183
+msgid "Logo Upload"
+msgstr "Загрузка логотипа"
+
+#: inc/getstart/getstart.php:178
+msgid "Responsive Design"
+msgstr "Отзывчивый дизайн"
+
+#: inc/getstart/getstart.php:173
+msgid "Theme Customization"
+msgstr "Настройка темы"
+
+#: inc/getstart/getstart.php:168
+msgid "Premium Themes"
+msgstr "Премиум темы"
+
+#: inc/getstart/getstart.php:167
+msgid "Free Themes"
+msgstr "Бесплатные темы"
+
+#: inc/getstart/getstart.php:160
+msgid "Theme Features"
+msgstr "Возможности темы"
+
+#: inc/getstart/getstart.php:153
+msgid "Pro Documentation"
+msgstr "Профессиональная документация"
+
+#: inc/getstart/getstart.php:152
+msgid "Buy Pro"
+msgstr "Купить ПРО версию"
+
+#: inc/getstart/getstart.php:151
+msgid "Live Demo"
+msgstr "Демонстрация"
+
+#: inc/getstart/getstart.php:146
+msgid "Premium Theme Information"
+msgstr "Информация о премиум теме"
+
+#: inc/getstart/getstart.php:140
+msgid " Once you are done with this, you can see all the demo content on front page. "
+msgstr "Как только вы закончите с этим, вы сможете увидеть весь демонстрационный контент на первой странице."
+
+#: inc/getstart/getstart.php:138
+msgid " Settings -&gt; Reading --&gt; Set the front page display static page to home page "
+msgstr "Насткройки -&gt; Чтение --&gt; Установите статическую страницу как домашнюю страницу "
+
+#: inc/getstart/getstart.php:137
+msgid " Go to "
+msgstr "Перейти"
+
+#: inc/getstart/getstart.php:137
+msgid "2. Set the front page:"
+msgstr "2. Установить главную страницу:"
+
+#: inc/getstart/getstart.php:135
+msgid "Label it \"home\" or anything as you wish. Then select template \"home-page\" from template dropdown."
+msgstr "Пометьте ее как «главная» или как вам больше нравиться. Затем выберите шаблон «домашняя страница» из раскрывающегося списка шаблонов."
+
+#: inc/getstart/getstart.php:134
+msgid "Dashboard &gt;&gt; Pages &gt;&gt; Add New Page"
+msgstr "Консоль &gt;&gt; Страницы &gt;&gt; Добавить новую страницу"
+
+#: inc/getstart/getstart.php:133
+msgid "1. Create a Page to set template:  Go to "
+msgstr "1. Создайте страницу для установки шаблона: Перейдите в "
+
+#: inc/getstart/getstart.php:131
+msgid "Follow these instructions to setup Home page."
+msgstr "Следуйте этим инструкциям, чтобы настроить домашнюю страницу."
+
+#: inc/getstart/getstart.php:129
+msgid "How to set up Home Page Template"
+msgstr "Как настроить шаблон домашней страницы"
+
+#: inc/getstart/getstart.php:122
+msgid "Footer Text"
+msgstr "Текст подвала"
+
+#: inc/getstart/getstart.php:119
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+#: inc/getstart/getstart.php:113
+msgid "Footer Widget"
+msgstr "Виджет подвала"
+
+#: inc/getstart/getstart.php:110
+msgid "Menus"
+msgstr "Меню"
+
+#: inc/getstart/getstart.php:105
+msgid "Topbar Section"
+msgstr "Раздел верхней панели"
+
+#: inc/getstart/getstart.php:94
+msgid "Upload your logo"
+msgstr "Загрузите ваше лого"
+
+#: inc/getstart/getstart.php:89
+msgid "Link to customizer"
+msgstr "Ссылка на настройщик"
+
+#: inc/getstart/getstart.php:86
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/getstart/getstart.php:84
+msgid "All the features and aspects of this WordPress Theme are phenomenal. I'd recommend this theme to all."
+msgstr "Все функции и аспекты этой WordPress темы феноменальны. Я бы рекомендовал эту тему всем."
+
+#: inc/getstart/getstart.php:83
+msgid "Reviews & Testimonials"
+msgstr "Обзоры и отзывы"
+
+#: inc/getstart/getstart.php:80
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/getstart/getstart.php:78
+msgid "Our dedicated team is well prepared to help you out in case of queries and doubts regarding our theme."
+msgstr "Наша целеустремленная команда хорошо подготовлена, чтобы помочь вам в случае вопросов и сомнений относительно нашей темы."
+
+#: inc/getstart/getstart.php:77
+msgid "Having Trouble, Need Support?"
+msgstr "Проблемы, нужна в поддержка?"
+
+#: inc/getstart/getstart.php:74
+msgid "Customizing"
+msgstr "Настройка"
+
+#: inc/getstart/getstart.php:72
+msgid "To begin customizing your website, start by clicking \"Customize\"."
+msgstr "Чтобы начать настройку своего сайта, начните с нажатия «Настроить»."
+
+#: inc/getstart/getstart.php:71
+msgid "Theme Customizer"
+msgstr "Настройщик темы"
+
+#: inc/customizer.php:309 inc/getstart/getstart.php:68
+msgid "Documentation"
+msgstr "Документация"
+
+#: inc/getstart/getstart.php:66
+msgid "If you need any assistance regarding setting up and configuring the Theme, our documentation is there."
+msgstr "Если вам нужна помощь в установке и настройке темы, тут наша документация."
+
+#: inc/getstart/getstart.php:65
+msgid "Theme Documentation"
+msgstr "Документация темы"
+
+#: inc/getstart/getstart.php:61
+msgid "Lite Theme Information"
+msgstr "Информация об облегченной теме"
+
+#: inc/getstart/getstart.php:56
+msgid "Support"
+msgstr "Техподдержка"
+
+#: inc/getstart/getstart.php:55
+msgid "Get Premium"
+msgstr "Приобрести Премиум"
+
+#: inc/getstart/getstart.php:54
+msgid "Getting Started"
+msgstr "Приступаем к работе"
+
+#: inc/getstart/getstart.php:47 inc/getstart/getstart.php:325
+msgid "Upgrade to Pro"
+msgstr "Обновиться до PRO-версии"
+
+#: inc/getstart/getstart.php:39
+msgid "All our WordPress themes are modern, minimalist, 100% responsive, seo-friendly,feature-rich, and multipurpose that best suit designers, bloggers and other professionals who are working in the creative fields."
+msgstr "Все наши WordPress темы являются современными, минималистичными, 100% адаптивными, подготовлеными к seo, с богатым функционалом и многофункциональными, которые идеально подойдут дизайнерам, блоггерам и другим профессионалам, которые работают в области творчества."
+
+#: inc/custom-widgets/social-profile.php:76
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: footer.php:31
+msgid "Copyright 2018 -"
+msgstr "Авторское право 2018 -"
+
+#: page-template/custom-home-page.php:39
+msgid "READ MORE"
+msgstr "Подробнее"
+
+#: functions.php:68
+msgid "GET STARTED"
+msgstr "НАЧАТЬ РАБОТУ"
+
+#: functions.php:67
+msgid "Thank you for choosing VW Book Store Theme. Would like to have you on our Welcome page so that you can reap all the benefits of our VW Book Store Theme."
+msgstr "Благодарим вас за выбор VW Book Store темы. Ждем вас на нашей странице приветствия, чтобы вы могли воспользоваться всеми преимуществами нашей темы VW Book Store."
+
+#: inc/getstart/getstart.php:38
+msgid "Welcome to VW Book Store Theme"
+msgstr "Добро пожаловать в тему VW Book Store"
+
+#: inc/getstart/getstart.php:5
+msgid "About VW Book Store"
+msgstr "Про VW Book Store"
+
+#: inc/getstart/getstart.php:200
+msgid "Unlimited"
+msgstr "Неограниченно"
+
+#: inc/getstart/getstart.php:149
+msgid "This bookstore WordPress theme is clean, reliable, modern and feature-full with great use for book stores, eBook portals, online book sellers, authors, journalists, writers, editors, publishers, libraries, reading clubs, online music, movies and game selling website and all the literature lovers. It is a one-stop-solution for establishing a performance efficient website for all books and reading related businesses. It has all the facility to list your books whether you deal with kids sound and story books or literature books for adults. It has sections cascaded to form a continuity to never leave the visitors idle. This bookstore WordPress theme has a fluid layout making it fully responsive. It is cross-browser compatible and translation ready. It is coded from scratch to make it bug-free. It is fearlessly compatible with third party plugins to give an extra edge to your website with the added plugin."
+msgstr "Эта тема WordPress bookstore - простая, надежная, современная и функциональная. Она отлично подходит для книжных магазинов, порталов электронных книг, онлайн-продавцов книг, авторов, журналистов, писателей, редакторов, издателей, библиотек, клубов чтения, онлайн-музыки, фильмов и сайту по продажам игр и всех любителей литературы. Это универсальное решение для создания эффективного веб-сайта для книг и чтения и связанных с ним бизнесов. В нем есть все возможности для составления списка ваших книг, независимо от того, имеете ли вы дело со звуками и рассказами для детей или литературными книгами для взрослых. Разделы располагаются каскадно, образуя непрерывность, чтобы никогда не оставлять посетителей без дела. WordPress тема bookstore имеет гибкий дизайн, что делает ее полностью адаптивной. Она совместима с различными браузерами и готов к переводу. Написана с нуля, чтобы сделать ее код без ошибок. Она совместима со сторонними плагинами, чтобы придать дополнительное преимущество вашему веб-сайту с помощью добавленного плагина."
+
+#: inc/getstart/getstart.php:63
+msgid "  VW Book store is a feature-rich, flexible, robust and reliable WordPress theme for book stores, eBook sites, writers, magazines, journalists, editors, authors, publishers and online book sellers. The theme can very well serve libraries, reading clubs, online movie, music and game selling sites. Built on Bootstrap framework, it is extremely easy to use. It is readily responsive, cross-browser compatible and translation ready. Its user-friendly interface of both frontend and backend will give a great experience to both your customers and you. It has multiple options to change the layout of the website. Banners and sliders are provided to further enhance its look. With a great scope of customization, you can change its colour, background, images and several other elements. The VW Book Store theme is sure to give you good SEO results. It is lightweight leading to speedy loading. With social media icons, your content, posts and website can be shared on various networking sites. These icons can also be used to let users follow you there. This book store theme can handle large traffic without hampering its functionality. It is purposefully made clean and secure resulting in a bug-free site. Use this theme to establish an online book hub for reading and literature lovers."
+msgstr "VW Book store - это многофункциональная, гибкая, надежная и настраиваемая тема WordPress для книжных магазинов, сайтов электронных книг, писателей, журналов, журналистов, редакторов, авторов, издателей и онлайн-продавцов книг. Тема может очень хорошо служить библиотекам, клубам чтения, онлайн-фильмам, сайтам по продаже музыки и игр. Построенна на основе Bootstrap, она чрезвычайно проста в использовании. Она адаптивна, совместима с разными браузерами и готова к переводу. Ее дружественный пользовательский интерфейс как внешнего интерфейса, так и внутреннего предоставит вам и вашим клиентам отличный опыт использования. Она имеет несколько вариантов для изменения макета сайта. Баннеры и слайдеры предоставляются для дальнейшего улучшения ее внешнего вида. С широкими возможностями настройки вы можете изменить ее цвет, фон, изображения и некоторые другие элементы. Тема VW Book Store наверняка даст вам хорошие результаты SEO. Она легкая, что приводит к быстрой загрузке. С помощью значков социальных сетей ваш контент, сообщения и веб-сайт могут быть опубликованы на различных сетевых сайтах. Эти значки также можно использовать, чтобы пользователи могли следить за вами. Эта тема книжного магазина может обрабатывать большой трафик без ущерба для его функциональности. Она специально сделана простой и безопасной, в результате чего сайт не содержит ошибок. Используйте эту тему, чтобы создать онлайновый книжный центр для любителей чтения и литературы. "
+
+#: functions.php:66
+msgid "Warm Greetings to you!!"
+msgstr "Теплый привет вам!!"
+
+#. Template Name of the theme
+msgid "Custom Home"
+msgstr "Пользовательская домашняя страница"
+
+#: woocommerce/checkout/form-checkout.php:52
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему для покупки."
+
+#: template-parts/single-post-layout.php:40
+msgid "Previous post:"
+msgstr "Предыдущая запись:"
+
+#: template-parts/single-post-layout.php:39
+msgid "Previous"
+msgstr "Назад"
+
+#: template-parts/single-post-layout.php:37
+msgid "Next post:"
+msgstr "Следующая запись:"
+
+#: template-parts/single-post-layout.php:36
+msgid "Next"
+msgstr "Далее"
+
+#: template-parts/single-post-layout.php:31
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/single-post-layout.php:14
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: template-parts/single-post-layout.php:14
+msgid "0 Comments"
+msgstr "0 комментариев"
+
+#: template-parts/single-post-layout.php:14
+msgid "0 Comment"
+msgstr "Нет комментариев"
+
+#: inc/customizer.php:196 template-parts/image-layout.php:32
+msgid "Edit"
+msgstr "Изменить"
+
+#: template-parts/image-layout.php:27
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: template-parts/header/navigation.php:11
+msgid "Menu"
+msgstr "Меню"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Архивы"
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Найти"
+
+#. translators: %s: search term
+#: search.php:18 search.php:51 search.php:83 search.php:115 search.php:149
+#: search.php:183 search.php:218
+msgid "Results For: %s"
+msgstr "Результаты поиска: %s"
+
+#: template-parts/content-gallery.php:32 template-parts/content-video.php:45
+#: template-parts/grid-layout.php:25 template-parts/content-image.php:27
+#: template-parts/content-audio.php:45 template-parts/content.php:28
+msgid "Read More"
+msgstr "Подробнее"
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Перейти на домашнюю страницу"
+
+#: no-results.php:19
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "Готовы опубликовать вашу первую запись? Начните отсюда."
+
+#: no-results.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/customizer.php:297
+msgid "Upgrade Pro"
+msgstr "Обновиться до Pro"
+
+#: inc/customizer.php:212
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer.php:203
+msgid "This section will appear in the footer"
+msgstr "Этот раздел появится в футере"
+
+#: inc/customizer.php:171
+msgid "Select Page"
+msgstr "Выберите страницу"
+
+#: inc/customizer.php:151
+msgid "Slider image size (1500 x 600)"
+msgstr "Размер изображения слайдера (1500 x 600)"
+
+#: inc/customizer.php:150
+msgid "Select Slide Image Page"
+msgstr "Выберите страницу слайдов"
+
+#: inc/customizer.php:126 inc/getstart/getstart.php:97
+#: inc/getstart/getstart.php:193
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:107
+msgid "Add Email Address"
+msgstr "Добавьте адресс почты"
+
+#: inc/customizer.php:53
+msgid "Topbar"
+msgstr "Верхняя панель"
+
+#: inc/customizer.php:47
+msgid "Grid Layout"
+msgstr "Сетчатый макет"
+
+#: inc/customizer.php:46
+msgid "Four Columns"
+msgstr "Четыре колонки"
+
+#: inc/customizer.php:45
+msgid "Three Columns"
+msgstr "Три колонки"
+
+#: inc/customizer.php:44
+msgid "One Column"
+msgstr "Один столбец"
+
+#: inc/customizer.php:39
+msgid "Do you want this section"
+msgstr "Вы хотите этот раздел"
+
+#: inc/customizer.php:27
+msgid "General Settings"
+msgstr "Основные настройки"
+
+#: inc/customizer.php:23
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:22
+msgid "VW Settings"
+msgstr "Настройки VW"
+
+#: inc/custom-widgets/social-profile.php:108
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: inc/custom-widgets/social-profile.php:104
+msgid "Tumblr:"
+msgstr "Tumblr:"
+
+#: inc/custom-widgets/social-profile.php:100
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: inc/custom-widgets/social-profile.php:96
+msgid "Instagram:"
+msgstr "Instagram:"
+
+#: inc/custom-widgets/social-profile.php:92
+msgid "Linkedin:"
+msgstr "Linkedin:"
+
+#: inc/custom-widgets/social-profile.php:88
+msgid "Google+:"
+msgstr "Google+:"
+
+#: inc/custom-widgets/social-profile.php:84
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: inc/custom-widgets/social-profile.php:80
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: inc/custom-widgets/social-profile.php:16
+msgid "Widget for Social icons section"
+msgstr "Виджет для раздела социальных сетей"
+
+#: header.php:17
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: inc/custom-widgets/social-profile.php:14 functions.php:147
+msgid "Social Icon"
+msgstr "Иконка соц. сети"
+
+#: functions.php:137
+msgid "Footer Navigation 4"
+msgstr "Навигация в подвале 4"
+
+#: functions.php:127
+msgid "Footer Navigation 3"
+msgstr "Навигация в подвале 3"
+
+#: functions.php:117
+msgid "Footer Navigation 2"
+msgstr "Навигация в подвале 2"
+
+#: functions.php:107
+msgid "Footer Navigation 1"
+msgstr "Навигация в подвале 1"
+
+#: functions.php:97
+msgid "Sidebar 3"
+msgstr "Боковая панель 3"
+
+#: functions.php:88 functions.php:98
+msgid "Appears on page sidebar"
+msgstr "Появится на боковой панели страницы"
+
+#: functions.php:87
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: functions.php:78
+msgid "Appears on blog page sidebar"
+msgstr "Появится на боковой панели страницы блога"
+
+#: functions.php:77
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:32
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: post title
+#: comments.php:30
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: archive.php:45 archive.php:81 archive.php:116 archive.php:151
+#: archive.php:188 archive.php:227 archive.php:263 single.php:40 single.php:73
+#: single.php:105 single.php:137 single.php:171 single.php:206 single.php:239
+#: index.php:45 index.php:78 index.php:110 index.php:142 index.php:176
+#: index.php:211 index.php:244 image.php:40 image.php:73 image.php:105
+#: image.php:137 image.php:171 image.php:206 image.php:239 search.php:40
+#: search.php:73 search.php:105 search.php:137 search.php:171 search.php:207
+#: search.php:240
+msgid "Page"
+msgstr "Страница"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 single.php:39 single.php:72
+#: single.php:104 single.php:136 single.php:170 single.php:205 single.php:238
+#: index.php:44 index.php:77 index.php:109 index.php:141 index.php:175
+#: index.php:210 index.php:243 image.php:39 image.php:72 image.php:104
+#: image.php:136 image.php:170 image.php:205 image.php:238 search.php:39
+#: search.php:72 search.php:104 search.php:136 search.php:170 search.php:206
+#: search.php:239
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 single.php:38 single.php:71
+#: single.php:103 single.php:135 single.php:169 single.php:204 single.php:237
+#: index.php:43 index.php:76 index.php:108 index.php:140 index.php:174
+#: index.php:209 index.php:242 image.php:38 image.php:71 image.php:103
+#: image.php:135 image.php:169 image.php:204 image.php:237 search.php:38
+#: search.php:71 search.php:103 search.php:135 search.php:169 search.php:205
+#: search.php:238
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: 404.php:17
+msgid "Return to the home page"
+msgstr "Вернуться на главную страницу"
+
+#: no-results.php:22 404.php:15
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Не волнуйтесь, и это случилось с лучшими из нас."
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: 404.php:13
+msgid "404"
+msgstr "404"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#: 404.php:14
+msgid "Looks like you have taken a wrong turn&hellip"
+msgstr "Похоже, вы пошли не туда&hellip"
+
+#: functions.php:108
+msgid "Appears on footer 1"
+msgstr "Появится в подвале 1"
+
+#: functions.php:243
+msgid "Book Store WordPress Theme."
+msgstr "WordPress тема Book Store."
+
+#: functions.php:148
+msgid "Appears on topbar"
+msgstr "Появится в верхней панели "
+
+#: functions.php:138
+msgid "Appears on footer 4"
+msgstr "Появится в подвале 4"
+
+#: functions.php:128
+msgid "Appears on footer 3"
+msgstr "Появится в подвале 3"
+
+#: functions.php:118
+msgid "Appears on footer 2"
+msgstr "Появится в подвале 2"
+
+#: inc/customizer.php:42
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer.php:34 inc/customizer.php:43
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer.php:296
+msgid "Book Store Pro"
+msgstr "Book Store Про"
+
+#: inc/customizer.php:202
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:159 inc/getstart/getstart.php:102
+msgid "Trending Products"
+msgstr "Актуальные товары"
+
+#: inc/customizer.php:118
+msgid "Add Cart page url"
+msgstr "Добавьте ссылку на страницу корзины"
+
+#: inc/customizer.php:96
+msgid "Help Link"
+msgstr "Ссылка помощи"
+
+#: inc/customizer.php:85
+msgid "Help Text"
+msgstr "Текст помощи"
+
+#: inc/customizer.php:74
+msgid "My Account Link"
+msgstr "Ссылка Моя учетная запись"
+
+#: template-parts/header/search-bar.php:17
+msgid "ALL CATEGORIES"
+msgstr "ВСЕ РУБРИКИ"
+
+#: searchform.php:12
+msgctxt "submit button"
+msgid "Search"
+msgstr "Искать"
+
+#. Template Name of the theme
+msgid "Page with Right Sidebar"
+msgstr "Страница с правой боковой панелью"
+
+#. Template Name of the theme
+msgid "Page with Left Sidebar"
+msgstr "Страница с левой боковой панелью"
+
+#: inc/customizer.php:63
+msgid "My Account Text"
+msgstr "Текст Моя учетная зипись"
+
+#: inc/customizer.php:54
+msgid "This section will appear in the Topbar"
+msgstr "Этот раздел появится в верхней панели"
+
+#. Author URI of the theme
+msgid "https://www.vwthemes.com/"
+msgstr "https://www.vwthemes.com/"
+
+#. Author of the theme
+msgid "VW Themes"
+msgstr "VW Themes"
+
+#. Theme URI of the theme
+msgid "https://www.vwthemes.com/themes/free-wordpress-book-theme/"
+msgstr "https://www.vwthemes.com/themes/free-wordpress-book-theme/"
